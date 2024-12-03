@@ -1,0 +1,4 @@
+application
+enter in letter grades
+enter how many classes you have and itll make that many slots
+cool colors
