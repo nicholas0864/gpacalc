@@ -33,10 +33,6 @@ This project is a simple GPA Calculator built using Python and Tkinter. It allow
 3. Input your grades for each class.
 4. Click the "Enter" button to calculate your GPA.
 
-## Contributing
-
-Contributions are welcome! Please feel free to submit a pull request or open an issue for any suggestions or improvements.
-
 ## License
 
 This project is licensed under the MIT License. See the LICENSE file for more details.
